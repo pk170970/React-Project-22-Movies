@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 
-[Live](https:reactprojectmovies.app/) <br>
+[Live](https://reactprojectmovies.netlify.app/) <br>
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-%F0%9F%87%AE%F0%9F%87%B3-2b6601171/)
 
 
